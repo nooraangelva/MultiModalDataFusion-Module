@@ -20,3 +20,6 @@ The project work is divided on following phases:
 3. Feature extraction and feature-level fusion for multimodal classification
 4. Decision-level fusion for multimodal classification
 5. Bonus task: Multimodal biometric identification of persons (Not done)
+
+
+[Course description link](https://opas.peppi.oulu.fi/en/course/521161S/7561)
